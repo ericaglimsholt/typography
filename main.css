@@ -1,3 +1,5 @@
+
+
 .intro {
   text-align: center;
   height: 500px;
@@ -63,4 +65,22 @@
   font-family: Avenir, "Trebuchet MS", Arial, sans-serif;
   font-size: 16px;
   line-height: 22px;
+}
+
+.last {
+  margin-top: 100px;
+}
+
+.quote {
+  margin-top: 40%;
+}
+
+.quote .hr-middle {
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.quote h2 {
+  text-align: center;
 }
