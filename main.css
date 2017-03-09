@@ -1,0 +1,27 @@
+.intro {
+  text-align: center;
+  height: 500px;
+  margin-top: 20%;
+}
+
+.intro h1 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 62px;
+  color: #4A4A4A;
+}
+
+.intro h3 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 17px;
+  color: #4A4A4A;
+  width: 70%;
+  margin: 0 auto;
+  line-height: 22px;
+}
+
+hr {
+  width: 50px;
+  color: #E1C2C9;
+  border-style: inset;
+  border-width: 5px;
+}
