@@ -19,9 +19,17 @@
   line-height: 22px;
 }
 
-hr {
-  width: 50px;
-  color: #E1C2C9;
-  border-style: inset;
-  border-width: 5px;
+.intro .hr-top {
+  width: 80px;
+  border-top: 6px solid #E1C2C9;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.intro .hr-bottom {
+  width: 80px;
+  border-top: 6px solid #E1C2C9;
+  margin: 0 auto;
+  margin-top: 20px;
 }
