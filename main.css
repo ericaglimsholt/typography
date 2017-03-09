@@ -33,3 +33,22 @@
   margin: 0 auto;
   margin-top: 20px;
 }
+
+.col-md h2 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 32px;
+  color: #4A4A4A;
+}
+
+.col-md h3 {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 17px;
+  color: #4A4A4A;
+  line-height: 26px;
+}
+
+.col-md p {
+  font-family: Avenir, "Trebuchet MS", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+}
