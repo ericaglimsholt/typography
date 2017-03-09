@@ -34,6 +34,11 @@
   margin-top: 20px;
 }
 
+.row .col-md {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
 .col-md h2 {
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   font-size: 32px;
