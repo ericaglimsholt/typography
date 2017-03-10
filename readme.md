@@ -1,6 +1,9 @@
-<img src="skiss.png" alt="07 - Fuzzy Memory" width="100%" style="max-width:100%;">
 # Tim Bernes-Lee
 ## An assignment in the class visual communication - a typograph assignment
+
+<img src="skiss.png" alt="07 - Fuzzy Memory" width="100%" style="max-width:100%;">
+
+## Instructions
 - You must only work with black + one color
 - You are allowed use lines
 - All text must be included on the site
