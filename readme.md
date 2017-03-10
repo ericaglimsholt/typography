@@ -20,7 +20,9 @@
 
 ## Credits
 All design is made by me.
+
 Creator of the typeface 'Futura' - Paul Renner
+
 Creator of the typeface 'Avenir' - Adrian Frutiger
 
 ## License
