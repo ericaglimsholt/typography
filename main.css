@@ -1,4 +1,12 @@
+@font-face {
+  font-family: Futura;
+  src:  url('fonts/Futura.ttc') format('OpenType'),
+}
 
+@font-face {
+  font-family: Avenir;
+  src:  url('fonts/Avenir.ttc') format('OpenType'),
+}
 
 .intro {
   text-align: center;
