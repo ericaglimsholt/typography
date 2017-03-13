@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Futura';
-  src:  url('./fonts/futura.woff') format('woff'),
+    font-family: 'Futura';
+    src: url("./fonts/Futura-Medium.otf") format("opentype");
 }
 
 @font-face {
-  font-family: 'Avenir';
-  src:  url('./fonts/avenir.woff') format('woff'),
+    font-family: 'Avenir';
+    src: url("./fonts/Avenir-Book.otf") format("opentype");
 }
 
 .intro {
