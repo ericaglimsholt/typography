@@ -9,7 +9,7 @@
 - Work with HTML and CSS
 
 ## How to make it work
-- [Simply look here at the GitHub-page](ttps://ericaglimsholt.github.io/typography/)
+- [Simply look here at the GitHub-page](https://ericaglimsholt.github.io/typography/)
 
 ## My work schedule
 - Designed the wireframes in Sketch
